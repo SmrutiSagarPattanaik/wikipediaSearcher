@@ -1,0 +1,12 @@
+.word-count, .snippet {
+    background-color: #d38f8f6b;
+}
+
+.page-link {
+    text-decoration: none;
+}
+
+th,  .word-count, .snippet {
+    padding: 15px;
+    border-bottom: 1px solid #000000;
+}
